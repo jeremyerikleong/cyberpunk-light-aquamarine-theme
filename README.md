@@ -1,4 +1,4 @@
-# cyberpunk-2077-dark-theme README
+# cyberpunk-light-aquamarine-theme README
 
 ## Working with Markdown
 
