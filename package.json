@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-2077-dark-theme",
+  "displayName": "Cyberpunk 2077 Dark Theme",
+  "description": "A cyberpunk 2077 inspired theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk 2077 Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk 2077 Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
