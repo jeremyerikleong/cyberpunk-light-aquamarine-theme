@@ -2,7 +2,7 @@
   "name": "cyberpunk-light-aquamarine-theme",
   "displayName": "Cyberpunk Light Aquamarine Theme",
   "description": "A cyberpunk inspired theme",
-  "version": "1.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.102.0"
   },
