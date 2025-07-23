@@ -4,6 +4,7 @@
   "description": "A cyberpunk inspired theme",
   "version": "1.0.0",
   "publisher": "JeremyErikLeong",
+  "icon": "images/cyberpunk-aquamarine-logo.webp",
   "repository": {
     "type": "git",
     "url": "https://github.com/jeremyerikleong/cyberpunk-light-aquamarine-theme"
