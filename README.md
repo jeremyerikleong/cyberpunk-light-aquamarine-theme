@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Cyberpunk Aquamarine" src="" width="100" />
+  <img alt="Cyberpunk Aquamarine" src="https://raw.githubusercontent.com/jeremyerikleong/cyberpunk-light-aquamarine-theme/main/images/cyberpunk-aquamarine.webp" width="100" />
 </p>
 <h1 align="center">
   Cyberpunk Theme for VS Code
