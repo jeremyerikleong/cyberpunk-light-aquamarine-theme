@@ -2,7 +2,23 @@
   "name": "cyberpunk-light-aquamarine-theme",
   "displayName": "Cyberpunk Light Aquamarine Theme",
   "description": "A cyberpunk inspired theme",
-  "version": "0.1.1",
+  "version": "1.0.0",
+  "publisher": "JeremyErikLeong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremyerikleong/cyberpunk-light-aquamarine-theme"
+  },
+  "keywords": [
+    "theme",
+    "cyberpunk",
+    "dark theme",
+    "aquamarine",
+    "cyberpunk light aquamarine",
+    "cyberpunk aquamarine",
+    "futuristic",
+    "jeremyerikleong",
+    "jeremy erik leong"
+  ],
   "engines": {
     "vscode": "^1.102.0"
   },
